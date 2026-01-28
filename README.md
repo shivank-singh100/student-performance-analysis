@@ -1,6 +1,6 @@
 # 📊 Student Performance Analysis
 
-A data analysis project examining the factors influencing student performance in exams. This project steps through the entire data science workflow: from data loading and cleaning to exploratory data analysis (EDA) and visualization using Python.
+Exploratory data analysis to understand how factors like parental education and test preparation influence students scores
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -48,6 +48,12 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 3.  **Open the notebook:**
     Click on `student_performance_analysis.ipynb` to view and run the analysis.
+
+### ☁️ Google Colab
+
+Run the notebook directly in your browser (no installation required):
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wxyuxUOJaaU_QHK6C3ZVLWUQuiqBA7Y1?usp=sharing)
 
 ## 📈 Key Insights
 
