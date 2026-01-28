@@ -80,3 +80,8 @@ Contributions are welcome! If you have suggestions for further analysis or visua
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## ✍️ Author
+
+**Shivank Singh**
+_Data Science Enthusiast_
